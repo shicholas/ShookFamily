@@ -1,0 +1,4 @@
+baseURL = 'https://shook.family/'
+languageCode = 'en-us'
+title = 'Shook Family'
+theme = 'mytheme'
